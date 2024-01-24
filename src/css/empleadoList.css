@@ -1,0 +1,19 @@
+.EmpleadoList{
+  background-color: rgb(200, 61, 61);
+  margin: 50px;
+  display: flex;
+  border-radius: 10px;
+  flex-direction: column;
+}
+
+.empleado-list{
+  display: flex;
+  margin: 15%;
+  align-items: center;
+}
+.rowContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,28 @@
+.empleado-row{
+  display: flex;
+  flex-direction: column;
+}
+
+.empleadotitle{
+  display: flex;
+  gap: 10px;
+}
+
+.empleadoFunction{
+background-color: aquamarine;
+text-align: center;
+border-radius: 10px;
+padding: 3px;
+display: flex;
+align-items: center;
+
+}
+
+.empleadoTitle{
+  font-weight: bolder;
+}
+
+.name{
+  font-weight: bolder;
+  font-size: 20px;
+}
